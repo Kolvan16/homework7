@@ -305,34 +305,23 @@ footer {
     width: 1110px;
     margin-left: auto;
     margin-right: auto;
-    height: 60px;
-    margin-top: 60px;
-}
-h3 {
-    position: absolute;
-    width: 130px;
-    height: 24px;
-    left: 406px;
-    top: 50px;
+  }
+
+footer h3 {
+    margin-top: 0px;
+    margin-bottom: 15px;
     font-family: Roboto;
     font-style: normal;
     font-weight: 500;
     font-size: 21px;
     line-height: 24px;
-    align-items: center;
-    color: #FFFFFF;
+    color: #ffffff;
 }
-.year {
-    position: absolute;
-    width: 193px;
-    height: 15px;
-    left: 406px;
-    top: 89px;
+footer p {
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
     font-size: 13px;
     line-height: 15px;
-    align-items: center;
-    color: #FFFFFF;
-}
+    color: #ffffff;
+  }
